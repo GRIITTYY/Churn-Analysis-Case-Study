@@ -2,6 +2,20 @@
 
 A complete end-to-end customer churn analysis project for a telecommunications company. This project covers data preprocessing, exploratory data analysis (EDA), machine learning modeling, and model interpretability using the Telco Customer Churn dataset.
 
+<div align="center">
+
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://telecomchurnpredictor. streamlit.app)
+
+**Predict customer churn risk instantly with our interactive ML-powered app!**
+
+<a href="https://telecomchurnpredictor.streamlit.app">
+  <img src="https://img.shields.io/badge/🔮_Live_Demo-Try_Now! -FF4B4B? style=for-the-badge&logo=streamlit&logoColor=white" alt="Live Demo"/>
+</a>
+
+</div>
+
+---
+
 ## 🎯 Project Overview
 
 ### What is Churn? 
@@ -26,7 +40,7 @@ Churn-Analysis-Case-Study/
 │   ├── WA_Fn-UseC_-Telco-Customer-Churn 2.csv
 │   ├── Part1-Telco-Customer-Churn. csv
 │   └── Part2-Telco-Customer-Churn. csv
-├── model/                                           # Saved ML models
+├── model/                                           # Saved ML model
 │   └── gradient_boosting_churn_model.pkl
 └── plots/                                           # Generated visualizations
     └── univariate_churn_subplots.png
@@ -108,6 +122,12 @@ The project evaluates multiple classification algorithms:
 - ROC-AUC Score
 - Confusion Matrix
 - SHAP values for model interpretability
+
+---
+
+### 🚀 [Try the Live Demo →](https://telecomchurnpredictor.streamlit.app)
+
+----
 
 ## 🚀 Getting Started
 
