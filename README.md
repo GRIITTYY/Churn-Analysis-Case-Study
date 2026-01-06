@@ -4,13 +4,9 @@ A complete end-to-end customer churn analysis project for a telecommunications c
 
 <div align="center">
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://telecomchurnpredictor. streamlit.app)
+### 🚀 [Try the Live Demo Now →](https://telecomchurnpredictor.streamlit.app)
 
 **Predict customer churn risk instantly with our interactive ML-powered app!**
-
-<a href="https://telecomchurnpredictor.streamlit.app">
-  <img src="https://img.shields.io/badge/🔮_Live_Demo-Try_Now! -FF4B4B? style=for-the-badge&logo=streamlit&logoColor=white" alt="Live Demo"/>
-</a>
 
 </div>
 
